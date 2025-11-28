@@ -25,6 +25,10 @@
 自动加载并展示所有可用动画预设。
 ![模型动画](./src/image/模型动画界面.png)
 
+### 视频演示
+
+[点击查看视频](https://www.bilibili.com/video/BV1BCSnB7E2s/)
+
 ## 🛠️ 技术栈
 
 - **核心框架**: React 18, TypeScript, Vite
