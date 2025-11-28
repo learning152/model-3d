@@ -58,6 +58,3 @@
 - `src/config`: 自动生成的模型配置文件
 - `public`: 模型与静态资源
 
-## 📄 License
-
-MIT
